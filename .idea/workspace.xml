@@ -140,7 +140,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="11" />
     <option name="y" value="5" />
     <option name="width" value="1346" />
@@ -317,12 +317,6 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 07h 23m 05s.xml">
-      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
-    </history-entry>
-    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 07h 32m 46s.xml">
-      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
-    </history-entry>
     <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 21h 19m 05s.xml">
       <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
     </history-entry>
@@ -342,6 +336,15 @@
       <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
     </history-entry>
     <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 23h 18m 24s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 23h 33m 44s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 23h 38m 35s.xml">
+      <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="_2_StartTheGoogleMapsActivity - 2019.11.09 at 23h 44m 03s.xml">
       <configuration name="_2_StartTheGoogleMapsActivity" configurationId="AndroidJUnit" />
     </history-entry>
   </component>
@@ -365,8 +368,8 @@
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
       <window_info anchor="bottom" id="Build" order="5" weight="0.46317512" />
       <window_info anchor="bottom" id="Android Profiler" order="6" />
-      <window_info anchor="bottom" id="Run" order="7" weight="0.3289689" />
-      <window_info active="true" anchor="bottom" id="Debug" order="8" visible="true" weight="0.3289689" />
+      <window_info active="true" anchor="bottom" id="Run" order="7" visible="true" weight="0.3289689" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.3289689" />
       <window_info anchor="bottom" id="Find" order="9" />
       <window_info anchor="right" id="Coverage" side_tool="true" weight="0.32980332" />
       <window_info anchor="right" id="Device File Explorer" order="0" side_tool="true" />

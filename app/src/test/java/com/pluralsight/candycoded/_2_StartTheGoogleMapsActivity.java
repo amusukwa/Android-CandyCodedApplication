@@ -66,8 +66,7 @@ public class _2_StartTheGoogleMapsActivity {
             // PROBLEM - this is not helping to make the mapIntent not null in createMapIntent()
             PowerMockito.whenNew(Intent.class).withAnyArguments().thenReturn(intent);
 
-            try {
-                infoActivity.onCreate(bundle);
+            try {                infoActivity.onCreate(bundle);
             } catch (Exception e) {
                 //e.printStackTrace();
             }
